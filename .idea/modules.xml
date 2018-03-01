@@ -3,6 +3,22 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/SummersThunders.iml" filepath="$PROJECT_DIR$/SummersThunders.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../robocode/robocode.iml" filepath="$PROJECT_DIR$/../robocode/robocode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../robocode/robocode.api/robocode.api.iml" filepath="$PROJECT_DIR$/../robocode/robocode.api/robocode.api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../robocode/robocode.battle/robocode.battle.iml" filepath="$PROJECT_DIR$/../robocode/robocode.battle/robocode.battle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../robocode/robocode.content/robocode.content.iml" filepath="$PROJECT_DIR$/../robocode/robocode.content/robocode.content.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../robocode/robocode.core/robocode.core.iml" filepath="$PROJECT_DIR$/../robocode/robocode.core/robocode.core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../robocode/robocode.distribution/robocode.distribution.iml" filepath="$PROJECT_DIR$/../robocode/robocode.distribution/robocode.distribution.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../robocode/robocode.host/robocode.host.iml" filepath="$PROJECT_DIR$/../robocode/robocode.host/robocode.host.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../robocode/robocode.installer/robocode.installer.iml" filepath="$PROJECT_DIR$/../robocode/robocode.installer/robocode.installer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../robocode/robocode.repository/robocode.repository.iml" filepath="$PROJECT_DIR$/../robocode/robocode.repository/robocode.repository.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../robocode/robocode.roborumble/robocode.roborumble.iml" filepath="$PROJECT_DIR$/../robocode/robocode.roborumble/robocode.roborumble.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../robocode/robocode.samples/robocode.samples.iml" filepath="$PROJECT_DIR$/../robocode/robocode.samples/robocode.samples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../robocode/robocode.sound/robocode.sound.iml" filepath="$PROJECT_DIR$/../robocode/robocode.sound/robocode.sound.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../robocode/robocode.tests/robocode.tests.iml" filepath="$PROJECT_DIR$/../robocode/robocode.tests/robocode.tests.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../robocode/robocode.tests.robots/robocode.tests.robots.iml" filepath="$PROJECT_DIR$/../robocode/robocode.tests.robots/robocode.tests.robots.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../robocode/robocode.ui/robocode.ui.iml" filepath="$PROJECT_DIR$/../robocode/robocode.ui/robocode.ui.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../robocode/robocode.ui.editor/robocode.ui.editor.iml" filepath="$PROJECT_DIR$/../robocode/robocode.ui.editor/robocode.ui.editor.iml" />
     </modules>
   </component>
 </project>

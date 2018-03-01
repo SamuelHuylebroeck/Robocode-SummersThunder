@@ -6,10 +6,41 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="robocode.api" />
+        <module name="robocode.battle" />
+        <module name="robocode.content" />
+        <module name="robocode.core" />
+        <module name="robocode.distribution" />
+        <module name="robocode.host" />
+        <module name="robocode.installer" />
+        <module name="robocode.repository" />
+        <module name="robocode.roborumble" />
+        <module name="robocode.samples" />
+        <module name="robocode.sound" />
+        <module name="robocode.tests" />
+        <module name="robocode.tests.robots" />
+        <module name="robocode.ui" />
+        <module name="robocode.ui.editor" />
         <module name="SummersThunders" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="robocode" target="1.6" />
+      <module name="robocode.api" target="1.6" />
+      <module name="robocode.battle" target="1.6" />
+      <module name="robocode.content" target="1.6" />
+      <module name="robocode.core" target="1.6" />
+      <module name="robocode.distribution" target="1.6" />
+      <module name="robocode.host" target="1.6" />
+      <module name="robocode.installer" target="1.6" />
+      <module name="robocode.repository" target="1.6" />
+      <module name="robocode.roborumble" target="1.6" />
+      <module name="robocode.samples" target="1.6" />
+      <module name="robocode.sound" target="1.6" />
+      <module name="robocode.tests" target="1.6" />
+      <module name="robocode.tests.robots" target="1.6" />
+      <module name="robocode.ui" target="1.6" />
+      <module name="robocode.ui.editor" target="1.6" />
       <module name="SummersThunders" target="1.5" />
     </bytecodeTargetLevel>
   </component>
